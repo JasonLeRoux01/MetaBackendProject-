@@ -1,3 +1,5 @@
-# MetaBackendProject
+# Back-End-Developer-Capstone
 
-Peer-graded Assignment: Little Lemon Web Application
+META Back-End Developer Course Capstone Project implemented by Jason Le Roux
+
+Please, see Readme.txt file for review process in Week4 of the co
